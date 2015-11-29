@@ -1,5 +1,0 @@
-[requires]
-Boost/1.59.0@lasote/stable
-
-[generators]
-cmake
